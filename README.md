@@ -6,6 +6,7 @@
   <h3 style="font-size: 1.75em; font-weight: bold;">Institut Teknologi Bandung</h3>
   <h3 style="font-size: 1.75em; font-weight: bold;">Semester I Tahun 2024/2025</h3>
 </div>
+</div>
 
 ## Deskripsi
 Model prediktif berbasis relasi rekurens untuk optimasi pengelolaan sumber daya dan waktu di Clash of Clans Town Hall 11. Menggunakan Python dan CSV untuk visualisasi dan analisis ROI bangunan, waktu builder, serta distribusi resource. Dibuat untuk tugas IF1220 Matematika Diskrit.
