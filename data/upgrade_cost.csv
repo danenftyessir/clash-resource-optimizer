@@ -1,0 +1,25 @@
+building,level,cost,resource_type,time_hours
+Gold Mine,11,4000000,gold,120
+Gold Mine,12,5000000,gold,168
+Gold Mine,13,6000000,gold,216
+Elixir Collector,11,4000000,elixir,120
+Elixir Collector,12,5000000,elixir,168
+Elixir Collector,13,6000000,elixir,216
+Dark Elixir Drill,6,6000000,elixir,168
+Dark Elixir Drill,7,7000000,elixir,216
+Gold Storage,11,4000000,gold,144
+Gold Storage,12,5000000,gold,192
+Elixir Storage,11,4000000,elixir,144
+Elixir Storage,12,5000000,elixir,192
+Dark Elixir Storage,5,150000,dark_elixir,144
+Dark Elixir Storage,6,200000,dark_elixir,192
+Cannon,13,7000000,gold,216
+Cannon,14,8000000,gold,264
+Archer Tower,13,7000000,gold,216
+Archer Tower,14,8000000,gold,264
+X-Bow,4,7000000,gold,168
+X-Bow,5,8000000,gold,216
+Inferno Tower,4,8000000,gold,216
+Inferno Tower,5,9000000,gold,264
+Eagle Artillery,1,8000000,gold,240
+Eagle Artillery,2,10000000,gold,336

@@ -1,0 +1,23 @@
+building_name,max_level,category,storage_capacity
+Gold Mine,13,Resource,0
+Elixir Collector,13,Resource,0
+Dark Elixir Drill,7,Resource,0
+Gold Storage,12,Storage,8500000
+Elixir Storage,12,Storage,8500000
+Dark Elixir Storage,6,Storage,180000
+Cannon,14,Defense,0
+Archer Tower,14,Defense,0
+Mortar,9,Defense,0
+Air Defense,9,Defense,0
+Wizard Tower,10,Defense,0
+Hidden Tesla,9,Defense,0
+Bomb Tower,6,Defense,0
+X-Bow,5,Defense,0
+Inferno Tower,5,Defense,0
+Eagle Artillery,2,Defense,0
+Barracks,13,Army,0
+Dark Barracks,8,Army,0
+Laboratory,9,Army,0
+Spell Factory,5,Army,0
+Dark Spell Factory,4,Army,0
+Army Camp,9,Army,0
