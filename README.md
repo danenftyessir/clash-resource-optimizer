@@ -1,4 +1,7 @@
-# Optimasi Resource CoC
+<div align="center">Model Prediktif Relasi Rekurens untuk Optimasi Resource dan Time Management pada Clash of Clans</div>
+<div align="center">
+Tugas Makalah IF1220 Matematika Diskrit - Semester I 2024/2025
+</div>
 
 ## Deskripsi
 Model prediktif berbasis relasi rekurens untuk optimasi pengelolaan sumber daya dan waktu di Clash of Clans Town Hall 11. Menggunakan Python dan CSV untuk visualisasi dan analisis ROI bangunan, waktu builder, serta distribusi resource. Dibuat untuk tugas IF1220 Matematika Diskrit.
@@ -67,7 +70,3 @@ Untuk pertanyaan dan saran, silakan hubungi:
 <div align="center">
 © 2024 Danendra Shafi Athallah. All rights reserved.
 </div>
-GitHub: @username
-
-Catatan
-Repository ini hanya berisi alat analisis dan tidak memodifikasi file game atau berinteraksi dengan klien Clash of Clans. Dibuat untuk tujuan pendidikan sebagai bagian dari tugas IF1220 Matematika Diskrit.
