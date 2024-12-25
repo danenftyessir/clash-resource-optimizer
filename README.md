@@ -40,7 +40,7 @@ optimasi-resource-coc/
 * Matplotlib dan Seaborn untuk visualisasi
 * CSV untuk penyimpanan data
 
-Cara Penggunaan
+## Cara Penggunaan
 
 1. Clone repository:
 ```bash
