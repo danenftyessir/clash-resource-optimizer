@@ -67,7 +67,7 @@ Repository ini hanya berisi alat analisis dan tidak memodifikasi file game atau 
 ## Kontak
 Untuk pertanyaan dan saran, silakan hubungi:
 * Email: danendra1967@gmail.com
-* GitHub: @danennftyessir
+* GitHub: @danenftyessir
 
 <div align="center">
 © 2024 Danendra Shafi Athallah. All rights reserved.
