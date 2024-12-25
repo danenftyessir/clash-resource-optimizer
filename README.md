@@ -2,10 +2,9 @@
 <div align="center">
   <img src="clash_of_clans_logo.png" alt="Clash of Clans Logo" width="200"/>
   <br><br>
-  <h2 align="center" style="font-size: 2em; font-weight: bold;">Tugas Makalah IF1220 Matematika Diskrit</h2>
-  <h3 align="center" style="font-size: 1.75em; font-weight: bold;">Institut Teknologi Bandung</h3>
-  <h3 align="center" style="font-size: 1.75em; font-weight: bold;">Semester I Tahun 2024/2025</h3>
-</div>
+  <h2 style="font-size: 2em; font-weight: bold;">Tugas Makalah IF1220 Matematika Diskrit</h2>
+  <h3 style="font-size: 1.75em; font-weight: bold;">Institut Teknologi Bandung</h3>
+  <h3 style="font-size: 1.75em; font-weight: bold;">Semester I Tahun 2024/2025</h3>
 </div>
 
 ## Deskripsi
