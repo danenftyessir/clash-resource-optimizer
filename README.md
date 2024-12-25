@@ -1,4 +1,4 @@
-<div align="center">Optimasi Resource COC</div>
+<div align="center" style="font-size: 60px">Optimasi Resource COC</div>
 
 ## Deskripsi
 Model prediktif berbasis relasi rekurens untuk optimasi pengelolaan sumber daya dan waktu di Clash of Clans Town Hall 11. Menggunakan Python dan CSV untuk visualisasi dan analisis ROI bangunan, waktu builder, serta distribusi resource. Dibuat untuk tugas IF1220 Matematika Diskrit.
@@ -23,8 +23,6 @@ optimasi-resource-coc/
 │   ├── models.py
 │   ├── utils.py
 │   └── analysis.py
-├── docs/
-│   └── makalah.pdf
 ├── requirements.txt
 └── README.md
 ```
