@@ -1,6 +1,11 @@
-<div align="center">Model Prediktif Relasi Rekurens untuk Optimasi Resource dan Time Management pada Clash of Clans</div>
+<h1 align="center" style="font-size: 3.5em;">Model Prediktif Relasi Rekurens untuk Optimasi Resource</h1>
 <div align="center">
-Tugas Makalah IF1220 Matematika Diskrit - Semester I 2024/2025
+  <img src="docs/clash_of_clans_logo.png" alt="Clash of Clans Logo" width="200"/>
+  <br><br>
+  <h2 align="center" style="font-size: 2em; font-weight: bold;">Tugas Makalah IF1220 Matematika Diskrit</h2>
+  <h3 align="center" style="font-size: 1.75em; font-weight: bold;">Institut Teknologi Bandung</h3>
+  <h3 align="center" style="font-size: 1.75em; font-weight: bold;">Semester I Tahun 2024/2025</h3>
+</div>
 </div>
 
 ## Deskripsi
